@@ -11,4 +11,5 @@ Also I add the input parameter just in case you have more than 1 server that nee
 
 ## Run the script
 - You can run the script on the root directory or under /spec directory
-- the command is something like this `python spec/first_api_test.py --input=qa` or `python spec/first_api_test.py -i=uat`
+- the command is something like this `python spec/first_api_test.py --input=qa` 
+- or `python spec/first_api_test.py -i=uat`
