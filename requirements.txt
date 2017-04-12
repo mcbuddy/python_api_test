@@ -1,0 +1,8 @@
+linecache2==1.0.0
+mysql==0.0.1
+MySQL-python==1.2.5
+requests==2.8.1
+six==1.10.0
+traceback2==1.4.0
+unittest2==1.1.0
+urllib3==1.12
